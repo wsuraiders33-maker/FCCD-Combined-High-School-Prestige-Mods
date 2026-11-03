@@ -1,5 +1,7 @@
 # FCCD Combined High School + Prestige Mods
 
+> **Known issue (November 3, 2026):** The Prestige recruiting AI can issue scholarship offers during preseason even though human-controlled teams cannot. A fix is undergoing testing. Until a corrected release is published, avoid advancing an important dynasty through preseason if recruiting fairness matters. An updated game engine will not automatically undo offers already saved.
+
 Combined engine mods for **Football Coach: College Dynasty**, bringing together **High School Mods v1.1.5** and **Prestige-Based Dynasty v1.0.3**.
 
 This is a **separate project** from the standalone High School Mods and Prestige-Based Dynasty releases. Each combined package contains both systems. **Do not install standalone mods on top of a combined package.**
