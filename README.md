@@ -12,6 +12,13 @@ The dedicated [Combined Mods Releases page](https://github.com/wsuraiders33-make
 
 Until the archived release has been migrated, the [original combined-v1.0.3 release](https://github.com/wsuraiders33-maker/FCCD-High-School-Mods/releases/tag/combined-v1.0.3) remains available in the High School Mods repository. Those older ZIPs **do not** include the new v1.1.5 missed-field-goal updates.
 
+## Release documentation
+
+- [Current v1.1.5 + Prestige v1.0.3 release notes](RELEASE_NOTES_HS115_PRESTIGE103.md)
+- [Historical combined v1.0.3 release notes](RELEASE_NOTES_ARCHIVED_COMBINED103.md)
+- [Release-package SHA-256 checksums](SHA256SUMS.txt)
+- [Publishing and safe migration guide](PUBLISHING_GUIDE.md)
+
 ## Choose one package
 
 - **Ohio Divisions I–VII:** One separately installable package for each division, matched to the corresponding Ohio Steam Workshop universe.
